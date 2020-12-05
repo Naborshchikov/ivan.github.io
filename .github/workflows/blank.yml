@@ -14,6 +14,10 @@ from scipy.interpolate import PchipInterpolator
 from scipy.signal import savgol_filter
 from prettytable import PrettyTable
 
+# Error elimination, since it does not affect the values obtained
+import warnings
+warnings.filterwarnings("ignore", category=RuntimeWarning) 
+
 comments = [[1, 'Proton and neutron consist of a core \n and two shells around them \n', 
              'Robert Hofstadter the Nobel laureate \n'], 
             [2, 'The proton consists of two quarks \n "u" and a quark "d" \n', 
