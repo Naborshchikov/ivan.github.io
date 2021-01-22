@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Python package
+name: Ver. 0.4. Algorithm in python 3. Quarks “u” and “d”, proton, neutron and their twins. An electric charge carrier is smaller than an electron. Combining fundamental interactions with mass, charge, volume.
 
 # Controls when the action will run. 
 on: [push]
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.5, 3.6, 3.7, 3.8]
+        python-version: [3.7.6, 3.8]
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     - uses: actions/checkout@v2
