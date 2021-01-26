@@ -7,7 +7,9 @@ Project name: <br>
 <h1>The structure of quarks "u", "d", proton, neutron, with finding their "twins", microparticles of charge carriers and data for calculating the Unified field.<br></h1></title>
 
 </head>
+
 <body>
+  
 <h2>Description:<br></h2>
 
 <p>Project implemented in python ver. 3.7.6, with using anaconda 2020 02. <br>
@@ -43,6 +45,7 @@ The data obtained by the Project allows the user to use it to calculate the Gene
 
 <p>To start the Project, it is enough to use Run. Everything will be done automatically. The program contains all the necessary comments.  <br>
 Therefore, if you need to use the received data in another program, you can easily find a place to insert the script.  <br>
+  
 The project allows developing new industrial technologies, including obtaining exotic materials, assessing the impact of fields on the human condition, and obtaining new environmentally friendly energy sources. </p>
 
 <h2>Credits:  <br></h2>
