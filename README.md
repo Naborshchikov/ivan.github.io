@@ -7,14 +7,13 @@ Project name: <br>
 <h1>The structure of quarks "u", "d", proton, neutron, with finding their "twins", microparticles of charge carriers and data for calculating the Unified field.<br></h1></title>
 
 </head>
-<body bgcolor=”grey”>
+<body>
 <h2>Description:<br></h2>
-<tr height=”150px”>
 
 <p>Project implemented in python ver. 3.7.6, with using anaconda 2020 02. <br>
 To implement the project used: <br>
-1. The libraries: pandas; numpy; matplotlib; scipy; prettytable; collections; plotly.
-2. The data: Nobel laureates; constants recommended by NIST USA (Table#1).
+1. The libraries: pandas; numpy; matplotlib; scipy; prettytable; collections; plotly.<br>
+2. The data: Nobel laureates; constants recommended by NIST USA (Table#1).<br>
 3. The author's algorithm. <br> </p>
 
 <p>The program includes 23 classes: <br>
@@ -51,7 +50,7 @@ The project allows developing new industrial technologies, including obtaining e
 <p>The author of the project is Ivan Naborshchikov.  <br>
 If you have any questions, you can ask them via:<br>
   Linkedin http://www.linkedin.com/in/ivan-naborshchikov/ <br>
-  GitHub https://github.com/Naborshchikov/ivan.github.io.git/  <br></p></tr>
+  GitHub https://github.com/Naborshchikov/ivan.github.io.git/  <br></p>
 
 </body>
 </html>
