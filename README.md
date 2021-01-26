@@ -8,8 +8,6 @@ Project name: <br>
 
 </head>
 <body bgcolor=”grey”>
-<td width=”100px”>
-<img src="image/Trademark.png"> </td>
 <h2>Description:<br></h2>
 <tr height=”150px”>
 
@@ -51,9 +49,9 @@ The project allows developing new industrial technologies, including obtaining e
 <h2>Credits:  <br></h2>
 
 <p>The author of the project is Ivan Naborshchikov.  <br>
-If you have any questions, you can ask them via:
-<a href=”http://www.linkedin.com/in/ivan-naborshchikov/”> Linkedin </a>  <br>
-  <a href=”https://github.com/Naborshchikov/ivan.github.io.git/”> GitHub </a>  <br></p></tr>
+If you have any questions, you can ask them via:<br>
+  Linkedin http://www.linkedin.com/in/ivan-naborshchikov/ <br>
+  GitHub https://github.com/Naborshchikov/ivan.github.io.git/  <br></p></tr>
 
 </body>
 </html>
