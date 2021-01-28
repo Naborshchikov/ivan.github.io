@@ -10,13 +10,17 @@ Project name: <br>
 <body>
 <h2> <p>Physics and programming as a source of optimization of existing technologies, obtaining environmentally friendly energy, new materials and equipment. </p>
 Description: </h2>
-<p> The Project has implemented an algorithm for a part of the physical-mathematical model. The physical-mathematical model allows: <br>
-To calculate the optimal characteristics for work in the nuclear, chemical, pharmaceutical industries. <br>
-Receiving exotic materials such as metallic hydrogen as a consequence of strong environmentally clean power sources. <br>
-To begin the development of new medical equipment based on non-contact point destruction of harmful bacteria, viruses, and mutated cells in the human body. <br>
-The physical-mathematical model allows you to calculate the optimal characteristics for obtaining new ultra-light, super-strong materials.
-</p>
-<p><h3> Project implemented in python ver. 3.7.6, with using anaconda 2020 02. </h3> <br>
+<p> The Project has implemented an algorithm for a part of the physical-mathematical model. The physical-mathematical model allows: </p>
+
+<p> To calculate the optimal characteristics for work in the nuclear, chemical, pharmaceutical industries. </p>
+
+<p> Receiving exotic materials such as metallic hydrogen as a consequence of strong environmentally clean power sources. </p>
+
+<p> To begin the development of new medical equipment based on non-contact point destruction of harmful bacteria, viruses, and mutated cells in the human body. </p>
+
+<p> The physical-mathematical model allows you to calculate the optimal characteristics for obtaining new ultra-light, super-strong materials. </p>
+
+<p> <h3> Project implemented in python ver. 3.7.6, with using anaconda 2020 02. </h3> <br>
 To implement the project used: <br>
 1. The libraries: pandas; numpy; matplotlib; scipy; prettytable; collections; plotly. <br>
 2. The data: Nobel laureates; constants recommended by NIST USA (Table#1). <br>
@@ -27,8 +31,9 @@ To implement the project used: <br>
 
 <p> <h4> 2. class Newnewproton()</h4>   - Calculation of three shells for new quarks "u" and "d", nine shells for a new proton, a new neutron in terms of mass, charge, volume. The calculation is implemented according to the author's algorithm. The applied algorithm allows to calculate any known particles and find new ones. This algorithm is only one of three parts of the physical-mathematical model. </p>
 
-<p> <h4> 3. class Pseudonewneutron() </h4>   - Calculation of three shells for quarks "u" and "d", nine shells for a proton, a neutron in terms of mass, charge, volume. The calculation is implemented according to the author's algorithm. According to the calculation, the proton and neutron have three wormholes each. Table 10 contains data on three negative values of the proton shells. Table 11 contains data on three negative values of the neutron shells. A negative volume is that part of the volume that is in another dimension, that is, a part of a wormhole located in another dimension. <br>
-According to the article of famous physicists A. Yu. Khlestkov & Yu. A. Khlestkov from Russian National Research Nuclear University "MEPhI" (https://link.springer.com/article/10.1007/s11182-019-01709-9), the neutron has a wormhole, which can be considered as proof of the author's algorithm. </p>
+<p> <h4> 3. class Pseudonewneutron() </h4>   - Calculation of three shells for quarks "u" and "d", nine shells for a proton, a neutron in terms of mass, charge, volume. The calculation is implemented according to the author's algorithm. According to the calculation, the proton and neutron have three wormholes each. Table 10 contains data on three negative values of the proton shells. Table 11 contains data on three negative values of the neutron shells. A negative volume is that part of the volume that is in another dimension, that is, a part of a wormhole located in another dimension. </p>
+
+<p> According to the article of famous physicists A. Yu. Khlestkov & Yu. A. Khlestkov from Russian National Research Nuclear University "MEPhI" (https://link.springer.com/article/10.1007/s11182-019-01709-9), the neutron has a wormhole, which can be considered as proof of the author's algorithm. </p>
 <p> <h4> 4. class Wavep(), class Waven(), class Wavepsn(), class Wavepsp() </h4>   - Classes for calculating the Compton wavelength from shells for a new proton, new neutron, proton, neutron. </p>
 <p> <h4> 5. class ElectricWavep(), class ElectricWaven(), class ElectricWavepsn(), class ElectricWavepsp() </h4>  - Classes for calculating the electrical ε for each shell at the speed of light. </p>
 <p> <h4> 6. class GravityWavep(), class GravityWaven(), class GravityWavepsn(), class GravityWavepsp() </h4>   - Calculation of gravity characteristics for shells. </p>
@@ -51,18 +56,20 @@ According to the article of famous physicists A. Yu. Khlestkov & Yu. A. Khlestko
 
 <p> To start the Project, it is enough to use Run. Everything will be done automatically. The program contains all the necessary comments.  </p>
 <p> Therefore, if you need to use the received data in another program, you can easily find a place to insert the script.  </p>
-<p> The project allows developing new industrial technologies, including obtaining exotic materials, assessing the impact of fields on the human condition, and obtaining new environmentally friendly energy sources. <br>
-Knowledge of the structure of the proton, the cyclicity of its phases, the relationship of fundamental forces, mass, charge, volume allows the use of their mutual reinforcement in the production of metallic hydrogen. Imagine a "positive resonance" that, with little external stimulus, produces a significant positive effect. <br>
-In terms of use for the development of new equipment for human treatment. Each person hears a lot of what he considers to be noise. A similar thing happens in the human body, each particle has its own characteristics and causes noise characteristic only for it. But just as each person recognizes another by their voice, so the equipment recognizes a particle, bacterium, molecule by its characteristics. To do this, the device needs to know its characteristics. The computer into which the proposed physical and mathematical model is loaded will calculate such characteristics. <br>
-Today, the location of any smartphone user can be found. The device will be able to find a particle, bacterium, virus in the human body in the same way. The knowledge obtained with the help of a physical-mathematical model, which, on the one hand, allows creating atoms, particles with minimal energy costs, will, on the other hand, also destroy viruses and bacteria harmful to the body. <br>
-Thus, any person will be able to recover from a large number of diseases in a hospital in a short time and return to the family full of strength and health. </p>
+<p> The project allows developing new industrial technologies, including obtaining exotic materials, assessing the impact of fields on the human condition, and obtaining new environmentally friendly energy sources. </p>
+<p> Knowledge of the structure of the proton, the cyclicity of its phases, the relationship of fundamental forces, mass, charge, volume allows the use of their mutual reinforcement in the production of metallic hydrogen. Imagine a "positive resonance" that, with little external stimulus, produces a significant positive effect. </p>
+<p> In terms of use for the development of new equipment for human treatment. Each person hears a lot of what he considers to be noise. A similar thing happens in the human body, each particle has its own characteristics and causes noise characteristic only for it. But just as each person recognizes another by their voice, so the equipment recognizes a particle, bacterium, molecule by its characteristics. To do this, the device needs to know its characteristics. The computer into which the proposed physical and mathematical model is loaded will calculate such characteristics. </p>
+<p> Today, the location of any smartphone user can be found. The device will be able to find a particle, bacterium, virus in the human body in the same way. The knowledge obtained with the help of a physical-mathematical model, which, on the one hand, allows creating atoms, particles with minimal energy costs, will, on the other hand, also destroy viruses and bacteria harmful to the body. </p>
+<p> Thus, any person will be able to recover from a large number of diseases in a hospital in a short time and return to the family full of strength and health. </p>
 
 <h2> Credits: </h2>
 
 <p> The author of the project is <h3> Ivan Naborshchikov</h3>.  </p>
 <p> If you have any questions, you can ask them via: </p>
-<p> <h4>  http://www.linkedin.com/in/ivan-naborshchikov/ </h4> </p>
- <p> <h4>   https://github.com/Naborshchikov/ivan.github.io.git/  </h4> </p>
+<p> Information about me is located at this address: <br>
+<h4>  http://www.linkedin.com/in/ivan-naborshchikov/ </h4> </p>
+ <p> The project is located at this address: <br>
+ <h4>   https://github.com/Naborshchikov/ivan.github.io.git/  </h4> </p>
 
 </body>
 </html>
