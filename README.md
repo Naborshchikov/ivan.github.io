@@ -4,7 +4,7 @@
 <title>
 Page README <br>
 Project name: <br> 
-<h1> Physics and programming as a source of optimization of existing technologies, obtaining environmentally friendly energy, new materials and equipment. </h1>
+<h1> Keywords: python, environmentally friendly energy, new materials and equipment, exotic materials, quarks, proton, neutron, nuclear, chemical, pharmaceutical, thermoelectric generator. </h1>
 </title>
 </head>
 <body>
@@ -57,10 +57,18 @@ To implement the project used: <br>
 <p> To start the Project, it is enough to use Run. Everything will be done automatically. The program contains all the necessary comments.  </p>
 <p> Therefore, if you need to use the received data in another program, you can easily find a place to insert the script.  </p>
 <p> The project allows developing new industrial technologies, including obtaining exotic materials, assessing the impact of fields on the human condition, and obtaining new environmentally friendly energy sources. </p>
+<p> It is possible to obtain exotic materials with the following characteristics: </p>
+
+<p> Radiation resistant from neutrons pcs/m3, respectively ≥ 1.5978313081543083*1048. Note, that the decay of one ton of uranium 92U235 will produce 6.12*1027 (approximately) neutrons. Thus, one cubic meter of material will absorb neutrons from the decay 6.6*1020 tons of uranium 92U235. </p>
+
+<p> Temperature resistant from photons, 0C, respectively  ≤ 81*1018. Note, that the temperature at the center of a nuclear explosion at 0C is 107 (approximately), that is, the material of the EMH absorbs heat from 1011 nuclear explosions, and the protective field will withstand temperatures exceeding the temperature at the center of a nuclear explosion 81*1011 times.  </p>
 <p> Knowledge of the structure of the proton, the cyclicity of its phases, the relationship of fundamental forces, mass, charge, volume allows the use of their mutual reinforcement in the production of metallic hydrogen. Imagine a "positive resonance" that, with little external stimulus, produces a significant positive effect. </p>
 <p> In terms of use for the development of new equipment for human treatment. Each person hears a lot of what he considers to be noise. A similar thing happens in the human body, each particle has its own characteristics and causes noise characteristic only for it. But just as each person recognizes another by their voice, so the equipment recognizes a particle, bacterium, molecule by its characteristics. To do this, the device needs to know its characteristics. The computer into which the proposed physical and mathematical model is loaded will calculate such characteristics. </p>
 <p> Today, the location of any smartphone user can be found. The device will be able to find a particle, bacterium, virus in the human body in the same way. The knowledge obtained with the help of a physical-mathematical model, which, on the one hand, allows creating atoms, particles with minimal energy costs, will, on the other hand, also destroy viruses and bacteria harmful to the body. </p>
 <p> Thus, any person will be able to recover from a large number of diseases in a hospital in a short time and return to the family full of strength and health. </p>
+<p> The project allows the development of a new generation thermoelectric generator. It will work for tens of years, providing electricity to a house, car, plane, and spacecraft. It will be eco-friendly, safe. </p>
+<p> The project allows the production of an ultra-light, ultra-strong material from hydrogen. Density: 287.5 kg/m3. The number of atoms/ions in the lattice 3/1. Heat resistance 2.3x1025 J/kg.  </p>
+<p> Only part of the Project is posted on the site in the form of program code due to the specifics of its capabilities. </p>
 
 <h2> Credits: </h2>
 
@@ -73,3 +81,4 @@ To implement the project used: <br>
 
 </body>
 </html>
+
