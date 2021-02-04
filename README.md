@@ -1,70 +1,15 @@
 # ivan.github.io
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<title> Physics and programming as a source of optimization of existing technologies, obtaining environmentally friendly energy, new materials and equipment.</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-</style>
+<title>
+Page README <br>
+Project name: <br> 
+<h1> Keywords: python, environmentally friendly energy, new materials and equipment, exotic materials, quarks, proton, neutron, nuclear, chemical, pharmaceutical, thermoelectric generator. </h1>
+</title>
 </head>
 <body>
-
-<div class="header">
-<h1> Physics and programming as a source of optimization of existing technologies, obtaining environmentally friendly energy, new materials and equipment.</h1>
-</div>
-.header {
-  padding: 80px; /* some padding */
-  text-align: center; /* center the text */
-  background: #1abc9c; /* green background */
-  color: white; /* white text color */
-}
-
-/* Increase the font size of the <h1> element */
-.header h1 {
-  font-size: 40px;
-}
-<div class="navbar">
-  <a href=" The project: ">https://github.com/Naborshchikov/ivan.github.io.git/</a>
-  <a href=" Information about me: ">http://www.linkedin.com/in/ivan-naborshchikov/</a>
-  <a href="#" class="right">Link</a>
-</div>
-/* Style the top navigation bar */
-.navbar {
-  overflow: hidden; /* Hide overflow */
-  background-color: #333; /* Dark background color */
-}
-
-/* Style the navigation bar links */
-.navbar a {
-  float: left; /* Make sure that the links stay side-by-side */
-  display: block; /* Change the display to block, for responsive reasons (see below) */
-  color: white; /* White text color */
-  text-align: center; /* Center the text */
-  padding: 14px 20px; /* Add some padding */
-  text-decoration: none; /* Remove underline */
-}
-
-/* Right-aligned link */
-.navbar a.right {
-  float: right; /* Float a link to the right */
-}
-
-/* Change color on hover/mouse-over */
-.navbar a:hover {
-  background-color: #ddd; /* Grey background color */
-  color: black; /* Black text color */
-}
-<div class="row">
-  <div class="side">
-<h2> Credits: </h2>
-<p> The author of the project is <h3> Ivan Naborshchikov</h3>.  </p>
-<p> If you have any questions, you can ask them via my pages on Linkedin, Github: </p> </div>
-  <div class="main">
-<h2> Description: </h2>
+<h2> <p>Physics and programming as a source of optimization of existing technologies, obtaining environmentally friendly energy, new materials and equipment. </p>
+Description: </h2>
 <p> The Project has implemented an algorithm for a part of the physical-mathematical model. The physical-mathematical model allows: </p>
 
 <p> To calculate the optimal characteristics for work in the nuclear, chemical, pharmaceutical industries. </p>
@@ -123,57 +68,16 @@ To implement the project used: <br>
 <p> Thus, any person will be able to recover from a large number of diseases in a hospital in a short time and return to the family full of strength and health. </p>
 <p> The project allows the development of a new generation thermoelectric generator. It will work for tens of years, providing electricity to a house, car, plane, and spacecraft. It will be eco-friendly, safe. </p>
 <p> The project allows the production of an ultra-light, ultra-strong material from hydrogen. Density: 287.5 kg/m. cube. The number of atoms/ions in the lattice 3/1. Heat resistance 2.3xe25 J/kg.  </p>
-</div>
-</div>
-/* Ensure proper sizing */
-* {
-  box-sizing: border-box;
-}
+<p> Only part of the Project is posted on the site in the form of program code due to the specifics of its capabilities. </p>
 
-/* Column container */
-.row {
-  display: flex;
-  flex-wrap: wrap;
-}
+<h2> Credits: </h2>
 
-/* Create two unequal columns that sits next to each other */
-/* Sidebar/left column */
-.side {
-  flex: 20%; /* Set the width of the sidebar */
-  background-color: #f1f1f1; /* Grey background color */
-  padding: 20px; /* Some padding */
-}
+<p> The author of the project is <h3> Ivan Naborshchikov</h3>.  </p>
+<p> If you have any questions, you can ask them via: </p>
+<p> Information about me is located at this address: <br>
+<h4>  http://www.linkedin.com/in/ivan-naborshchikov/ </h4> </p>
+ <p> The project is located at this address: <br>
+ <h4>   https://github.com/Naborshchikov/ivan.github.io.git/  </h4> </p>
 
-/* Main column */
-.main {
-  flex: 80%; /* Set the width of the main content */
-  background-color: white; /* White background color */
-  padding: 20px; /* Some padding */
-}
-/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 700px) {
-  .row {
-    flex-direction: column;
-  }
-}
-
-/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
-@media screen and (max-width: 400px) {
-  .navbar a {
-    float: none;
-    width: 100%;
-  }
-}
-<div class="footer">
-  <h2><p> Only part of the Project is posted on the site in the form of program code due to the specifics of its capabilities. </p>
-</h2>
-</div>
-.footer {
-  padding: 20px; /* Some padding */
-  text-align: center; /* Center text*/
-  background: #ddd; /* Grey background */
-}
 </body>
 </html>
-
-
