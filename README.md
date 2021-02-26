@@ -20,6 +20,8 @@ Description: </h2>
 
 <p> To obtain a powerful, environmentally friendly, lightweight electric thermal generator, which will provide electricity to individual buildings and vehicles for decades. </p>
 
+<p> Consider in comparison graphs 23, 24, 25. We will see in graph 25 that the simultaneous use of electromagnetic, gravitational fields and frequency, regardless of speed, will produce maximum and minimum values. This effect will make it possible to obtain exotic materials and required technological parameters with minimal energy consumption. </p>
+
 <p> <h3> Project implemented in python ver. 3.7.6, with using anaconda 2020 02. </h3> <br>
 To implement the project used: <br>
 1. The libraries: pandas; numpy; matplotlib; scipy; prettytable; collections; plotly. <br>
