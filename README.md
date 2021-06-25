@@ -11,7 +11,7 @@ Project name: <br>
 <h2> <p> The relationship of matter. </p>
 Description: </h2>
 <p> The Project has implemented an algorithm for the relationship of matter, presented the physical-mathematical model. The Project allows: </p>
-
+<p> The main branch is currently being used to confirm the priority. </p>
 <p> Creating new technological processes, optimizing existing technologies. </p>
 
 <p> Receiving exotic materials such as metallic hydrogen: metallic hydrogen as fuel; metallic hydrogen as an ultralight, ultra-strong, heat-resistant, radiation-resistant material.   </p>
