@@ -50,7 +50,7 @@ The libraries: pandas; numpy; matplotlib; scipy; prettytable; collections; csv; 
 <h2> Credits: </h2>
 <p> The author of the project is <h3> Ivan Naborshchikov</h3>.  </p>
 <p> If you have any questions, you can ask them via: </p>
-<p> e-mail: ivannaborshchikov@yahoo.com </p>
+<p> e-mail: <ivannaborshchikov@yahoo.com> </p>
 <p> Information about me is located at this address: <br>
 <h4>  http://www.linkedin.com/in/ivan-naborshchikov/ </h4> </p>
 <h2> License: </h2>
