@@ -13,6 +13,14 @@ Description: </h2>
 <p> The algorithm at Python3 for demonstrations of the space-time structure of matter by the example of protons, neutrons, and computed tachyons. </p>
 <p>  Combinatorics, matrix calculus, cycles, logical calculus are important parts of the program code. </p>
 <p> Most of the data used for the calculation is taken from the official site of the National Institute of Standards and Technology (NIST). </p>
+<p> The laws of nature obey mathematical laws. Therefore, they can be digitized and represented in the form of computer code. The more correct the algorithm is chosen for the computer code, the smaller the error will be.  </p>
+<p> The presented program contains a pair of values for the “u” and “d” quarks obtained by calculation for the analysis of a proton, a neutron. In total, there are nine different mathematical variations on the formation of a proton, a neutron. Five are "Singular". The remaining four are pairwise identical in the analyzed characteristics. </p>
+<p> Calculated values for the charge in quarks from the electron charge according to the program:   </p>
+<p> “u” - 0.6666666699999999 and 0.66666667</p>
+<p> “d” - -0.33333333 and  -0.33333333  </p>
+<p> That is, the error of the calculated data obtained using the program from the experimental data is: </p>
+<p> “u” – 0.0000005% </p>
+<p> “d” – 0.000001% </p>
 <p> The computed structures protons and neutrons indicate that: a proton and a neutron move along the time axis and have a clockwise spin; a proton 2 and a neutron 2 move in the opposite direction and have counterclockwise spin. </p>
 <p> Protons, neutrons consist of three segments located in the future, present, and past time. As proof of this, one can take the fact that scientists have confirmed that the proton and neutron have a passage to another dimension: https://link.springer.com/article/10.1007/s11182-019-01709-9 </p>
 <p> Energy and mass transfer of a neutron between its segments located at different times leads to decay. At the same time, this indicates the possibility of travel in time.   </p>
