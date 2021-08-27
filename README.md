@@ -61,6 +61,7 @@ The libraries: pandas; numpy; matplotlib; scipy; prettytable; collections; csv; 
 <p> Graphs from 29 to 31 show how the time segmentation simplifies the analysis of particle characteristics.  In addition, graphs 30, 31 allow you to evaluate the possibility of using spatial lines when generating points for further calculations. </p>
 <p>  Graphs from 32 to 35 show the difference between the pairs proton-neutron, proton 2 - neutron 2, and are used to justify movement along and against the time axis. Five hundred points generated in the interval of minimum and maximum between values allow you to emphasize this. </p>
 <p>  Graphs 36 to 41 explain the decay of the neutron, the production of the proton. The segment of the neutron in the past is the singular matrix = [0. 0. 0.] under any conditions. The segment decreases for the proton in the past in comparison with the neutron. The segment increases for the proton in the future in comparison with the neutron. Thus, the decay of the neutron promotes the proton's advance into the future. </p>
+<p> Graphs 42-45 show the asynchrony of the characteristics of the proton and neutron in relation to proton 2 and neutron 2 on the time scale. They are built using an additional script. </p>
 <h2> Installation: </h2>
 <p> The project does not require any special skills to install. It will work on Jupiter Notebook. If you are missing some packages, then they are easily loaded using pip. </p>
 <h2> Usage:  </h2>
