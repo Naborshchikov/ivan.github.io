@@ -84,7 +84,7 @@ Description: </h2>
 <p> The presented results allow scientists to move on to a study of time travel and the extension of human life. </p>
 
 <h2> Credits: </h2>
-<p> The author of the project is <h3> Ivan Naborshchikov </h3>.  </p>
+<p> The author of the project is <h3> Ivan Naborshchikov </h3>  </p>
 <p> If you have any questions, you can ask them via: </p>
 <p> e-mail: ivannaborshchikov@yahoo.com </p>
 <p> Information about me is located at this address: <br>
