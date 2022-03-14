@@ -40,6 +40,11 @@ Description: </h2>
 <p>except: </p>
 <p> The computed structures protons and neutrons indicate that: a proton and a neutron move along the time axis and have a clockwise spin; a proton 2 and a neutron 2 move in the opposite direction and have counterclockwise spin. </p>
 <p> Protons, neutrons consist of three segments located in the future, present, and past time. As proof of this, one can take the fact that scientists have confirmed that the proton and neutron have a passage to another dimension: https://link.springer.com/article/10.1007/s11182-019-01709-9 </p>
+<p>    Knowledge of the features of segments of protons, neutrons allow: </p>
+<p> Firstly. Present the space-time structure of protons, neutrons. This data can be obtained from the presented program code. </p>
+<p> Secondly. Gives knowledge about possible combinations of interactions of protons, neutrons. This can be done by adding a small script to the program code. </p>
+<p> Thirdly. Allows us to calculate characteristics for the interaction of protons, neutrons, and the formation of particle nuclei. </p>
+
 <p> Energy and mass transfer of a neutron between its segments located at different times leads to decay. At the same time, this indicates the possibility of travel in time.   </p>
 <p> The presented segmentation by the time of the proton and the neutron explains the reason for the decay of the neutron, the stability of the proton. This approach can be extrapolated to modeling materials by calculating their service life in advance, which will improve the durability and quality of the developed materials. </p>
 <p> The project has produced two types of neutrons with different characteristics. This explains why the "bottle" and "beam" methods for estimating the neutron lifetime give scientists different results. This can be viewed as proof of the obtained results. </p>
