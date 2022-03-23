@@ -4,13 +4,17 @@
 <title>
 Page README <br>
 Project name: <br> 
-<h1> Keywords: python3, tachyon, proton, neutron, molecular hydrogen. </h1>
+<h1> Keywords: python3, tachyon, proton, neutron, molecular hydrogen, hydrogen bond. </h1>
 </title>
 </head>
 <body>
-<h2> <p> Space-temporal structure of protons, neutrons and types of molecular hydrogen. Ver. 6.0 </p>
+<h2> <p> Eight types of hydrogen molecules. Ver. 6.1 </p>
 Description: </h2>
 <p> The algorithm at Python3 for describing of the space-time structure protons, neutrons, tachyons, and 8 types of molecular hydrogen. For calculations, publicly available data were used, which are contained on the NIST website (US National Institute of Standards and Technology). The presence of 8 types of molecular hydrogen has been substantiated. </p>
+<p> The results obtained allow us to better understand the diversity of hydrogen bonds, intra- and intermolecular interactions, the physical properties of water and many organic liquids (alcohols, carboxylic acids, amides of carboxylic acids, esters). </p>
+<p> The presented knowledge makes it possible to solve one of the important problems of modern chemistry - the creation of an efficient and safe hydrogen storage system, to develop a system that combines a high hydrogen storage density with low costs for its release. </p>
+<p> We will be able to better understand the properties of biologically important substances such as proteins and nucleic acids. In particular, elements of the secondary structure (for example, α-helices, β-folds) and tertiary structure in protein, RNA and DNA molecules are stabilized by hydrogen bonds. In these macromolecules, hydrogen bonds hold parts of the same macromolecule together, causing it to fold into a particular shape. </p>
+<p> Many polymers are reinforced with hydrogen bonds in their backbones. Among synthetic polymers, the most famous example is nylon, where hydrogen bonds play a major role in the crystallization of the material. Hydrogen bonds are also important in the structure of artificially produced polymers (such as cellulose) and in many different forms in nature, such as wood, cotton, and linen. </p>
 <p> Combinatorics, matrix calculus, cycles, logical calculus are important parts of the program code. </p>
 <p> The laws of nature obey mathematical laws. Therefore, they can be digitized and represented in the form of computer code. The more correct the algorithm is chosen for the computer code, the smaller the difference between the calculated data and the well-known experimental data used will be, which is typical for the proposed software code.  </p>
 <p> The presented program contains a pair of values for the “u” and “d” quarks obtained by calculation for the analysis of a proton, a neutron. </p>
@@ -31,7 +35,13 @@ The libraries: numpy; scipy; prettytable; collections. <br>  </p>
 <p> <h4> 2. class Algorithm () </h4>   - The 'class Algorithm()' class is used to calculate nuclei, shells of quarks 'u', 'd', and contains the data of constants used in the program. </p>
 <p> <h4> 3. class Particles () </h4>   - This class forms the date set for protons, neutrons, calculates the characteristics of the tachyon. </p>
 <p> <h4> 4. class Segments() </h4> - This class defines segments of protons, neutrons conditionally located in the past, present and future time. </p>
-<p> <h4> 4. class Molecularhydrogen() </h4> - This class calculates the characteristics of the common area for protons in a hydrogen molecule. By analogy with this class, you can create classes for other elements, substances. </p>
+<p> <h4> 4. class Molecularhydrogen() </h4> - This class calculates the electric charge, mass, volume of eight different hydrogen molecules segment by segment. </p>
+<p> Consider the notation using the MolecularH2_1_Past_1e as an example: </p>
+<p> MolecularH2 - hydrogen molecule H2 </p>
+<p> 1 - hydrogen molecule of the first type </p>
+<p> Past - segment Past </p>
+<p> 1 - first layer </p>
+<p> e - the presence of an electron is taken into account </p>
 <p> The program contains a detailed calculation of each time segment of the proton, neutron. Logical operators, loops are used for these purposes. </p>
 <h2> Installation: </h2>
 <p> The project does not require any special skills to install. It will work on Jupiter Notebook. If you are missing some packages, then they are easily loaded using pip. </p>
