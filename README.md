@@ -55,7 +55,7 @@ The libraries: numpy; scipy; prettytable; collections. For the attached separate
 <p> The program code contains detailed comments and explanations. </p>
 <p> <h4> Table with the original data </h4> Table#1. The table contains the data recommended by the US NIST and data of various groups of scientists. The table is made in the form of a separate script. </p>
 <p> <h4> 1. class Algorithm () </h4>   - The 'class Algorithm()' class is used to calculate nuclei, shells of quarks 'u', 'd', and contains the data of constants used in the program. </p>
-<p> <h4> 2. class Particles () </h4>   - This class forms the date set for protons, neutrons, calculates the characteristics of the tachyon. </p>
+<p> <h4> 2. class Particles () </h4>   - This class forms the data set for protons, neutrons, calculates the characteristics of the tachyon. </p>
 <p> <h4> 3. class Segments() </h4> - This class defines segments of protons, neutrons conditionally located in the past, present and future time. The values that can be obtained from this class are very simple and do not require additional comments. </p>
 <p> For example: PROTON_Present_Q means it's a proton, the segment is present, and Q is the electric charge for this segment. The value of M at the end will talk about the mass. The V value at the end will indicate volume. The “matrix” value at the end will indicate the content of the matrix of values for the shells for the specified segment.  </p>
 <p> <h4> 4. class Molecularhydrogen() </h4> - This class calculates the electric charge, mass, volume of eight different hydrogen molecules segment by segment. </p>
