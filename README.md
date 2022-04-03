@@ -68,6 +68,10 @@ The libraries: numpy; scipy; prettytable; collections. For the attached separate
 <p> The absence of “e” at the end of the symbol means the absence of an electron. </p>
 <p> <h4> 5. class He() </h4> - This class calculates the electric charge, mass, volume of two helium atoms 2 by segments; the presence of five helium atoms 3 and characteristics of common areas for protons, neutrons. The calculation was made taking into account each shell. The “intersection” extension denotes that the value refers to a common area of particles. </p>
 <p>  He2_2_Present_4e means that this is helium 2, the second kind of atom, the fourth part of the segment is “present”, the data on the electron are taken into account. </p>
+<p> <h4> 6. class Deltam() </h4> - This class explains "bond energy". It is taken from two types of neutrons having different weights. This class also introduces: </p>
+<p> NEUTRON_Delta is used for exothermic reactions </p>
+<p> NEUTRON_Delta2 is used in endothermic reactions </p>
+<p> The nucleus of an atom, a molecule has binding energies, the formation of which or their destruction leads to the release of energy or its absorption. Chemical and nuclear reactions are like a handshake. For molecules, this is a "handshake with one hand", for particles in the nucleus, this is a "handshake with two hands". The destruction or formation of these bonds and causes heat or cold. The transition from "handshake with two hands" to "handshake with one hand" is the transition from nuclear to chemical bonding. </p>
 <h2> Installation: </h2>
 <p> The project does not require any special skills to install. It will work on Jupiter Notebook. If you are missing some packages, then they are easily loaded using pip. </p>
 <h2> Usage:  </h2>
