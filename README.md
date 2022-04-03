@@ -107,5 +107,5 @@ The libraries: numpy; scipy; prettytable; collections. For the attached separate
 <p> e-mail: ivannaborshchikov@yahoo.com </p>
 <p> Information about me is located at this address: <br>
 <h4>  http://www.linkedin.com/in/ivan-naborshchikov/ </h4> </p>
- </body>
+</body>
 </html>
