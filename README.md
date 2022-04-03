@@ -15,7 +15,7 @@ Description: </h2>
 <p> The program uses publicly available data that is contained on the NIST (US National Institute of Standards and Technology) website. Sometimes validated scientific data from open sources were used in addition to NIST data. </p>
 <p> </p>
 <p> </p>
-<p> < h3> Key outcomes of the program and related conclusions: </h3> </p>
+<p> <h3> Key outcomes of the program and related conclusions: </h3> </p>
 <p> </p>
 <p>1. Program contains mathematical conversion of a neutron to a proton. </p>
                <p>2. A proton and a neutron move along the time axis; a proton 2 and a neutron 2 move in the opposite direction. This is contributing to the formation of atoms, molecules and contributes to their destruction. </p>
@@ -30,7 +30,7 @@ Description: </h2>
                 <p>11. The type of neutron involved in the formation, decay of the nucleus of an atom, molecule determines the type of reaction; the reaction proceeds with the release or absorption of heat.   </p>
 <p> </p>
 <p> </p>
-<p> < h3> Possibilities: </h3>  </p>
+<p> <h3> Possibilities: </h3>  </p>
 <p> </p>
 <p> - It can be used in reducing energy costs for modifying a substance, eliminating or reducing neutron radiation. </p>
 <p> - Approach in Item 2, 9, 11 can be extrapolated to modelling materials by calculating their service life in advance, which will improve the durability and quality of the developed materials </p>
@@ -44,19 +44,19 @@ Description: </h2>
 <p> Mass: 5.1328712618966e-47 kg </p>
 <p> Volume: 2.9503259453108798e-80 m.cube </p>
 <p> </p>
-<p> < h3> Obtained results: </h3>  </p>
+<p> <h3> Obtained results: </h3>  </p>
 <p> - Allows better understand the diversity of hydrogen bonds, intra- and intermolecular interactions, the physical properties of water and many organic liquids (alcohols, carboxylic acids, amides of carboxylic acids, esters). </p>
 <p> - Makes possible to solve one of the important problems of modern chemistry - the creation of an efficient and safe hydrogen storage system, to develop a system that combines a high hydrogen storage density with low costs for its release. </p>
 <p> - Allows better understand properties of biologically important substances such as proteins and nucleic acids (in particular, elements of the secondary structure (for example, α-helices, β-folds) and tertiary structure in protein, RNA and DNA molecules are stabilized by hydrogen bonds. In these macromolecules, hydrogen bonds hold parts of the same macromolecule together, causing it to fold into a particular shape) </p>
 <p> More efficient computer models can be developed for each of stated above. </p>
 <p>  - To assert that the calculated He2_1 will decay into two protons, and He2_2 will give deuterium upon decay. Clearly seen from the obtained structures and their characteristics. Detailed script can be executed additionally. </p>
 <p> </p>
-<p> < h3> Key idea is that: </h3>  </p>
+<p> <h3> Key idea is that: </h3>  </p>
 <p> </p>
 <p> The laws of nature obey mathematical laws. Therefore, they can be digitized and represented in the form of computer code. The more correct the algorithm is chosen for the computer code, the smaller the difference between the calculated data and the well-known experimental data used will be, which is typical for the proposed software code. </p>
 <p> </p>
 <p> </p>
-<p> < h3> Other related information: </h3>  </p>
+<p> <h3> Other related information: </h3>  </p>
 <p> The error of the data obtained using the program version 6.2 tends to zero in comparison with the publicly available experimental data. For example, if we compare the data on quarks "u", we get an error equal to zero. </p>
 <p> </p>
 <p> For example, the value of the electric charge for quarks “u” and “u2” according to the program is:
