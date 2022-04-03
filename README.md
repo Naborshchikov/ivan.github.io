@@ -1,11 +1,9 @@
 # ivan.github.io
 <html>
 <head>
-<title>
 Page README <br>
 Project name: <br> 
 <h1> Keywords: python3, tachyon, proton, neutron, molecular hydrogen, hydrogen bond, helium 2, helium 3, time, space-temporal, neutron radiation, thermonuclear fusion. </h1>
-</title>
 </head>
 <body>
 <h2> <p> Python 3 program for segmentation of protons and neutrons by physical properties to build models of atoms and molecules using hydrogen and helium as an example. Ver. 6.2 </p>
