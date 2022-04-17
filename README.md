@@ -73,7 +73,7 @@ Description: </h2>
 <p> <h3> Project implemented in python ver. 3, with using anaconda 2020 02. </h3> <br>
 To implement the project used: <br>
 The libraries: numpy; scipy; prettytable; collections. For the attached separately scripts you will need: matplotlib.pyplot, matplotlib <br>  </p>
-<p><h3> The program includes 5 classes, table with the original data placed separately: </h3> </p>
+<p><h3> The program includes 7 classes (the two classes are hosted independently), table with the original data placed separately: </h3> </p>
 <p> The program code contains detailed comments and explanations. </p>
 <p> <h4> Table with the original data </h4> Table#1. The table contains the data recommended by the US NIST and data of various groups of scientists. The table is made in the form of a separate script. </p>
 <p> <h4> 1. class Algorithm () </h4>   - The 'class Algorithm()' class is used to calculate nuclei, shells of quarks 'u', 'd', and contains the data of constants used in the program. </p>
@@ -90,10 +90,11 @@ The libraries: numpy; scipy; prettytable; collections. For the attached separate
 <p> The absence of “e” at the end of the symbol means the absence of an electron. </p>
 <p> <h4> 5. class He() </h4> - This class calculates the electric charge, mass, volume of two helium atoms 2 by segments; the presence of five helium atoms 3 and characteristics of common areas for protons, neutrons. The calculation was made taking into account each shell. The “intersection” extension denotes that the value refers to a common area of particles. </p>
 <p>  He2_2_Present_4e means that this is helium 2, the second kind of atom, the fourth part of the segment is “present”, the data on the electron are taken into account. </p>
-<p> <h4> 5. class Deltam() </h4> - This class explains "bond energy". It is taken from two types of neutrons having different weights. This class also introduces: </p>
+<p> <h4> 6. class Deltam() </h4> - This class explains "bond energy". It is taken from two types of neutrons having different weights. This class also introduces: </p>
 <p> NEUTRON_Delta is used for exothermic reactions </p>
 <p> NEUTRON_Delta2 is used in endothermic reactions </p>
 <p> The nucleus of an atom, a molecule has binding energies, the formation of which or their destruction leads to the release of energy or its absorption. Chemical and nuclear reactions are like a handshake. For molecules, this is a "handshake with one hand", for particles in the nucleus, this is a "handshake with two hands". The destruction or formation of these bonds and causes heat or cold. The transition from "handshake with two hands" to "handshake with one hand" is the transition from nuclear to chemical bonding. </p>
+<p> <h4> 7. class He3() </h4> - This class contains information about five helium 3 atoms. </p>
 
 <h2> Installation: </h2>
 <p> The project does not require any special skills to install. It will work on Jupiter Notebook. If you are missing some packages, then they are easily loaded using pip. </p>
