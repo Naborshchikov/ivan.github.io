@@ -95,6 +95,23 @@ The libraries: numpy; scipy; prettytable; collections. For the attached separate
 <p> NEUTRON_Delta2 is used in endothermic reactions </p>
 <p> The nucleus of an atom, a molecule has binding energies, the formation of which or their destruction leads to the release of energy or its absorption. Chemical and nuclear reactions are like a handshake. For molecules, this is a "handshake with one hand", for particles in the nucleus, this is a "handshake with two hands". The destruction or formation of these bonds and causes heat or cold. The transition from "handshake with two hands" to "handshake with one hand" is the transition from nuclear to chemical bonding. </p>
 <p> <h4> 7. class He3() </h4> - This class contains information about five helium 3 atoms. </p>
+<p> Atom 0 has the following two merging regions: He3_0_Past_1_e; He3_0_Present_0_e  </p>
+<p> Electrons are placed on the last shell for the following areas: He3_0_Present_1_e; He3_0_Present_3_e </p>
+
+<p> Atom 1 has the following two merging regions: He3_1_Past_1_e; He3_1_Present_0_e </p>
+<p> Electrons are placed on the last shell for the following areas: He3_1_Present_1_e; He3_1_Present_2_e </p>
+
+<p> Atom 2 has the following two merging regions: He3_2_Present_0_e; He3_2_Future_0_e </p>
+<p> Electrons are placed on the last shell for the following areas: He3_2_Present_1_e; He3_2_Present_2_e </p>
+
+<p> Atom 3 has the following two merging regions: He3_3_Present_0_e; He3_3_Future_0_e </p>
+<p> Electrons are placed on the last shell for the following areas:  He3_3_Present_1_e; He3_3_Present_3_e</p>
+
+<p> Atom 4 has the following two merging regions: He3_4_Past_1_e; He3_4_Present_0_e </p>
+<p> Electrons are placed on the last shell for the following areas: He3_4_Present_1_e; e3_4_Present_2_e  </p>
+<p> The basic placement of the electrons is shown. </p>
+<p> All values are presented in the SI system: the first column is the charge in Coulomb, the second column is the mass in kilograms, the third column is the volume in cubic meters. </p>
+
 
 <h2> Installation: </h2>
 <p> The project does not require any special skills to install. It will work on Jupiter Notebook. If you are missing some packages, then they are easily loaded using pip. </p>
