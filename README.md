@@ -111,6 +111,8 @@ The libraries: numpy; scipy; prettytable; collections. For the attached separate
 <p> Electrons are placed on the last shell for the following areas: He3_4_Present_1_e; e3_4_Present_2_e  </p>
 <p> The basic placement of the electrons is shown. </p>
 <p> All values are presented in the SI system: the first column is the charge in Coulomb, the second column is the mass in kilograms, the third column is the volume in cubic meters. </p>
+<p> From all five variants of He3 atoms, only the first variant of the atom in each bond contains a He2 joint. The remaining 4 variants of the He3 atom contain the He2 joint in only one bond. Therefore, the synthesis of the first variant of the He3 atom from hydrogen molecules will require significantly less energy than the synthesis of the remaining 4 variants of He3 atoms.  </p>
+<p> Thus, it can be argued that there is an energy-efficient method of thermonuclear fusion. </p>
 
 
 <h2> Installation: </h2>
