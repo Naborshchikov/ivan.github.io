@@ -72,8 +72,8 @@ Description: </h2>
 <p> </p>
 <p> <h3> Project implemented in python ver. 3, with using anaconda 2020 02. </h3> <br>
 To implement the project used: <br>
-The libraries: numpy; scipy; prettytable; collections. For the attached separately scripts you will need: matplotlib.pyplot, matplotlib <br>  </p>
-<p><h3> The program includes 7 classes (the two classes are hosted independently), table with the original data placed separately: </h3> </p>
+The libraries: numpy; scipy; prettytable; collections. For the attached separately scripts you will need: matplotlib.pyplot, matplotlib, math <br>  </p>
+<p><h3> The program includes 8 classes (the three classes are hosted independently), table with the original data placed separately: </h3> </p>
 <p> The program code contains detailed comments and explanations. </p>
 <p> <h4> Table with the original data </h4> Table#1. The table contains the data recommended by the US NIST and data of various groups of scientists. The table is made in the form of a separate script. </p>
 <p> <h4> 1. class Algorithm () </h4>   - The 'class Algorithm()' class is used to calculate nuclei, shells of quarks 'u', 'd', and contains the data of constants used in the program. </p>
@@ -114,6 +114,16 @@ The libraries: numpy; scipy; prettytable; collections. For the attached separate
 <p> From all five variants of He3 atoms, only the first variant of the atom in each bond contains a He2 joint. The remaining 4 variants of the He3 atom contain the He2 joint in only one bond. Therefore, the synthesis of the first variant of the He3 atom from hydrogen molecules will require significantly less energy than the synthesis of the remaining 4 variants of He3 atoms.  </p>
 <p> Thus, it can be argued that there is an energy-efficient method of thermonuclear fusion. </p>
 
+<p> <h4> 8. class He2_properties () </h4> - Div-E has been calculated according to the first Maxwell equation for each segment, the shell of helium2 atoms.  </p>
+<p> The decay time of the first helium2 core into two protons in vacuum was calculated: </p>
+<p> unit06.T17 - 2.407125427875271e-21 c </p>
+<p> It is calculated that the decomposition reaction proceeds in three phases. </p>
+<p> The first phase is the time to break the first intranuclear bond: </p>
+<p> unit06.T16 - 1.569159784690606e-21с </p>
+<p>The second phase is the state of the ion of the hydrogen molecule: </p>
+<p> unit06.T18 - 8.37965643184665e-22 с </p>
+<p> The third phase is the breaking of the second intranuclear connection. </p>
+ <p> At the moment after the breaking of intranuclear bonds in helium2, protons will look like flat disks. This effect is achieved due to ultra-high accelerations when intranuclear bonds are broken in helium2 in vacuum, that is, the speed of protons after breaking intranuclear bonds approaches the speed of light. </p>
 
 <h2> Installation: </h2>
 <p> The project does not require any special skills to install. It will work on Jupiter Notebook. If you are missing some packages, then they are easily loaded using pip. </p>
